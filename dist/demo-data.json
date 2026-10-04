@@ -1,0 +1,87 @@
+{
+  "robotics": {
+    "url": "https://encord.com/long-horizon/",
+    "title": "Long Horizon",
+    "meta": "Oct 20–21, 2026 · Fort Mason, San Francisco · AI + robotics",
+    "code": "SVR35",
+    "discount": "35% off",
+    "base": 399,
+    "final": 259.35,
+    "saving": 139.65,
+    "source": "https://www.linkedin.com/pulse/long-horizon-physical-ai-getting-closer-andra-keay-huuoc",
+    "sourceLabel": "Published by Silicon Valley Robotics’ Andra Keay",
+    "checkout": "https://encord.com/long-horizon/",
+    "note": "Estimate for a $399 one-day ticket. Fees, current availability, approval and code acceptance require checkout confirmation. Stacking with flash-sale prices is unverified.",
+    "trace": [
+      "Read organizer ticket options",
+      "Ran 12 web searches and fetched 8 pages",
+      "Found a public partner offer: SVR35",
+      "Matched the 35% offer to the organizer’s one-day price"
+    ],
+    "currency": "USD",
+    "market": "US"
+  },
+  "art": {
+    "url": "https://partiful.com/e/duFpHfa4S3JSg9hBVrnR",
+    "title": "ArtTech Playground",
+    "meta": "Oct 8, 2026 · 6–9 PM PT · MoAD, San Francisco · Art + tech + music",
+    "code": "ArtTechPlayground26",
+    "discount": "Admission code found",
+    "base": 15,
+    "final": null,
+    "saving": null,
+    "source": "https://www.tech-week.com/calendar/sf/events/arttech-playground-0d907dc8-b081-4311-ab83-db4851a5f3a2",
+    "sourceLabel": "Official SF Tech Week event listing",
+    "checkout": "https://museumoftheafricandiaspora2.ticketing.veevartapp.com/tickets/view/list/general-admission-fall-2026",
+    "note": "The official listing publishes this museum admission code. Its discount amount is not published; savings stay unknown until checkout. $15 is the published adult admission price.",
+    "trace": [
+      "Read the Partiful event",
+      "Ran 12 web searches and fetched 7 pages",
+      "Located the same admission code on the official Tech Week listing",
+      "Kept the unknown discount amount blank"
+    ],
+    "currency": "USD",
+    "market": "US"
+  },
+  "fallback": {
+    "url": "https://luma.com/qo2dliwb",
+    "title": "Future of Work Mixer",
+    "meta": "Oct 12, 2026 · 5–9 PM PT · HumanMade, San Francisco",
+    "code": null,
+    "discount": "No eligible promo confirmed",
+    "base": null,
+    "final": null,
+    "saving": null,
+    "note": "No source-confirmed admission promo was found for the original event. We searched same-day options, then expanded to nearby dates. This saved demo combines the original run and a follow-up search.",
+    "trace": [
+      "Researched the original event and public offers",
+      "Looked for same-day San Francisco social + professional events",
+      "Expanded to nearby dates within seven days",
+      "Found a public 25% offer for a different event"
+    ],
+    "alternatives": [
+      {
+        "title": "TechCrunch Disrupt",
+        "meta": "Oct 13–15 · Moscone, SF · Nearby dates (+1–3 days)",
+        "code": "INFOWORLD25",
+        "discount": "25% off",
+        "base": 949,
+        "final": 711.75,
+        "source": "https://www.infoworld.com/article/4217752/techcrunch-disrupt-whats-next-for-ai-and-software-development.html",
+        "checkout": "https://techcrunch.com/events/techcrunch-disrupt/tickets/",
+        "note": "AI, startups and professional networking. Estimated $237.25 saving on a $949 attendee pass; checkout acceptance and fees unverified. This code applies to Disrupt, not the original mixer."
+      },
+      {
+        "title": "Serve, Swipe & Settle",
+        "meta": "Oct 12 · 5–7 PM PT · SPIN, SF · Same day, overlapping time",
+        "code": null,
+        "discount": "Free RSVP",
+        "source": "https://go.nmi.com/serve-swipe-settle-event",
+        "checkout": "https://go.nmi.com/serve-swipe-settle-event",
+        "note": "Payments + SaaS networking, food and drinks. Published free RSVP; this is a free event, not a promo code. Current availability requires confirmation."
+      }
+    ],
+    "currency": "USD",
+    "market": "US"
+  }
+}

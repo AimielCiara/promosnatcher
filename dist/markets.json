@@ -1,0 +1,93 @@
+{
+  "checked_at": "2026-10-04",
+  "US": [
+    {
+      "id": "groupon",
+      "name": "Groupon",
+      "url": "https://www.groupon.com/coupons",
+      "evidence": "https://www.groupon.com/coupons",
+      "categories": [
+        "Dining",
+        "Experiences",
+        "Travel",
+        "Shopping"
+      ],
+      "type": "Public codes · vouchers · deals",
+      "access": "Public browsing; terms vary",
+      "status": "Directory reviewed",
+      "note": "Public coupon listings plus local experience deals. Distinguish merchant codes from purchased Groupon vouchers; displayed verification badges are not our checkout tests."
+    },
+    {
+      "id": "travelzoo",
+      "name": "Travelzoo",
+      "url": "https://www.travelzoo.com/top20/",
+      "evidence": "https://www.travelzoo.com/top20/",
+      "categories": [
+        "Travel",
+        "Dining",
+        "Experiences"
+      ],
+      "type": "Member deals · travel vouchers",
+      "access": "Membership / partner conditions",
+      "status": "Directory reviewed",
+      "note": "Travel and experience deal discovery. Verify membership cost, availability, booking windows and partner terms before treating a listed saving as yours."
+    },
+    {
+      "id": "fever",
+      "name": "Fever",
+      "url": "https://feverup.com/en",
+      "evidence": "https://support.feverup.com/hc/en-us/articles/38499451914004-What-is-a-welcome-voucher",
+      "categories": [
+        "Events",
+        "Experiences"
+      ],
+      "type": "App vouchers · referral discounts",
+      "access": "App / first purchase / city limits",
+      "status": "Official voucher rules reviewed",
+      "note": "Official help describes first-purchase app referral vouchers. No referral code collected here; voucher expiry, city and event conditions must match your purchase."
+    },
+    {
+      "id": "ticketmaster",
+      "name": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/ticketdeals",
+      "evidence": "https://help.ticketmaster.com/hc/en-us/sections/13918660889617-Promos-Discounts",
+      "categories": [
+        "Events"
+      ],
+      "type": "Selected-event ticket offers",
+      "access": "Location / event / availability",
+      "status": "Official offer route reviewed",
+      "note": "A US ticket-deals entry point exists. Current event inventory was not reliably readable; no nationwide code or specific available ticket deal is claimed."
+    },
+    {
+      "id": "slickdeals",
+      "name": "Slickdeals",
+      "url": "https://slickdeals.net/featured-deals/",
+      "evidence": "https://slickdeals.net/featured-deals/",
+      "categories": [
+        "Shopping",
+        "Travel",
+        "Dining"
+      ],
+      "type": "Community deals · coupon codes",
+      "access": "Public browsing; merchant terms",
+      "status": "Directory indexed; access limited",
+      "note": "Useful discovery leads, then verify the original merchant page and expiry. Community posts do not prove checkout acceptance."
+    },
+    {
+      "id": "retailmenot",
+      "name": "RetailMeNot",
+      "url": "https://www.retailmenot.com/",
+      "evidence": "https://retailmenot.mediaroom.com/press?category=768",
+      "categories": [
+        "Shopping",
+        "Travel",
+        "Dining"
+      ],
+      "type": "Coupon codes · cashback",
+      "access": "Public codes; cashback needs conditions",
+      "status": "Official company source; access limited",
+      "note": "Codes and cashback are separate mechanisms. The homepage could not be read directly in this check; no listed rate or code is presented as valid."
+    }
+  ]
+}
